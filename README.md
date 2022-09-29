@@ -8,9 +8,9 @@
 <img align="right" alt="Coding" width="490" src="https://camo.githubusercontent.com/6c3074a36728731e7c9413a60393916d9e37dcd495b17d3e7e11bdddad215fb7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966">
 <p align="left"> <a href="https://twitter.com/_shray_sharma_" target="blank"><img src="https://img.shields.io/twitter/follow/_shray_sharma_?logo=twitter&style=for-the-badge" alt="_shray_sharma_" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently Working on **My Skill😊**
 
-- 💬 Ask me about **React,MERN,**
+- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **shrayss007@gmail.com**
 
