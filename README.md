@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working on **My Skill😊**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio]**(https://shraista.vercel.app/)
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://shraista.vercel.app/)**
 
 - 💬 Ask me about **Front-End**
 
