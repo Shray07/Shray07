@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front-End**
 
-- 📫 How to reach me **shrayss007@gmail.com**
+- 📫 How to reach me **shraista.sharma@gmail.com**
 
 - ⚡ Fun fact **I am a jolly guy!**
 
