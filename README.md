@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/681f3af15512cab4532d8c6f4449e8795b28479b849a1d6a0a92c6f47de0c913/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shray07" alt="shray07" /></a> </p>
-<img align="right" alt="Coding" width="490" src="https://camo.githubusercontent.com/6c3074a36728731e7c9413a60393916d9e37dcd495b17d3e7e11bdddad215fb7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966">
+<img align="right" alt="Coding" width="490" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 <p align="left"> <a href="https://twitter.com/_shray_sharma_" target="blank"><img src="https://img.shields.io/twitter/follow/_shray_sharma_?logo=twitter&style=for-the-badge" alt="_shray_sharma_" /></a> </p>
 
 - 🌱 I’m currently Working on **My Skill😊**
